@@ -67,8 +67,14 @@ Metrics used:
 
 ## 📂 Repository Structure
 ├── retail_sales_analysis.ipynb   # Jupyter Notebook with code
+
+
 ├── retail_sales_dataset.csv      # Dataset
+
+
 ├── report.pdf                     # Project report
+
+
 └── README.md                      # Project documentation
 
 
